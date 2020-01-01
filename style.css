@@ -22,7 +22,7 @@ p {
   display: inline-block;
 }
 
-#details {
+#details div {
   display: block;
   float: left
 }
