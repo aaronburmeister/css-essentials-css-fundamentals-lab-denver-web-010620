@@ -21,3 +21,8 @@ p {
   width: 800px;
   display: inline-block;
 }
+
+#details {
+  display: block;
+  float: left
+}
