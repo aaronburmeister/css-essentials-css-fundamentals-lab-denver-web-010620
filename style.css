@@ -28,3 +28,7 @@ p {
   float: left;
   width: 25%;
 }
+
+#details div {
+  float: left;
+}
