@@ -25,4 +25,5 @@ p {
 #details > div {
   display: block;
   background: red;
+  float: left;
 }
