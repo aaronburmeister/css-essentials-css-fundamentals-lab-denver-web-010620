@@ -22,8 +22,11 @@ p {
   display: inline-block;
 }
 
-#details ~ div {
+#details div {
   display: block;
-  float: left;
   background: red;
+}
+
+div ~ div {
+  float: left;
 }
