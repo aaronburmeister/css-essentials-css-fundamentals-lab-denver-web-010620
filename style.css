@@ -22,13 +22,9 @@ p {
   display: inline-block;
 }
 
-#details > div {
+#details div {
   display: block;
   background: red;
   float: left;
   width: 25%;
-}
-
-div > p {
-  text-align: center;
 }
