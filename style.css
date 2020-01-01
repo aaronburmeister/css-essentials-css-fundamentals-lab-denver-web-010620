@@ -4,7 +4,7 @@ body {
   margin: 0;
 }
 
-h1, nav, figure {
+h1, nav, figure, section {
   text-align: center;
 }
 
@@ -19,5 +19,4 @@ figcaption {
 
 section#featured-property p {
   width: 800px;
-  align-self: center;
 }
