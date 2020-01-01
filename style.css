@@ -28,9 +28,3 @@ figcaption {
   float: left;
   width: 25%;
 }
-
-#details div p {
-  float: left;
-  display: block;
-  width: 25%;
-}
