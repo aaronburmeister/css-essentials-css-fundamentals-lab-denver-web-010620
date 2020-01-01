@@ -27,5 +27,8 @@ p {
   background: red;
   float: left;
   width: 25%;
-  padding: 10px;
+}
+
+div > p {
+  text-align: center;
 }
