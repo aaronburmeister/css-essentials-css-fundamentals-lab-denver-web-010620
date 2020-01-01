@@ -32,4 +32,5 @@ p {
 #details div p {
   float: left;
   display: block;
+  width: 25%;
 }
