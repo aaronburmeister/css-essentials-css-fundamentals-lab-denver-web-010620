@@ -8,7 +8,7 @@ h1, nav, figure, section {
   text-align: center;
 }
 
-a {
+nav a {
   padding: 10px;
   background: gray;
 }
