@@ -22,13 +22,13 @@ p {
   display: inline-block;
 }
 
-#details div p {
+#details div {
   display: block;
   background: red;
   float: left;
   width: 25%;
 }
 
-#details div {
+#details div p {
   float: left;
 }
