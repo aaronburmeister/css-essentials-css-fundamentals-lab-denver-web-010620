@@ -30,7 +30,7 @@ p {
 }
 
 #details div p {
-  float: left;
+  float: center;
   display: block;
   width: 25%;
 }
