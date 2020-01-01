@@ -30,7 +30,7 @@ figcaption {
 }
 
 #details div p {
-  float: center;
+  float: left;
   display: block;
   width: 25%;
 }
