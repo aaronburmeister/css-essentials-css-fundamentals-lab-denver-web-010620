@@ -26,4 +26,5 @@ p {
   display: block;
   background: red;
   float: left;
+  width: 25%;
 }
