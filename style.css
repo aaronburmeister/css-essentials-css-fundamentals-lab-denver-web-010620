@@ -27,5 +27,5 @@ p {
   background: red;
   float: left;
   width: 25%;
-  text-align: center;
+  align-content: center;
 }
