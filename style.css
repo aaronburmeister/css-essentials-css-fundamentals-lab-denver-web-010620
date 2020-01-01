@@ -31,4 +31,5 @@ p {
 
 #details div p {
   float: left;
+  display: block;
 }
